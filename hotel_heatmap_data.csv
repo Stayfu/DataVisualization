@@ -1,53 +1,52 @@
 group,variable,value
-Hotel[1],u20,2
-Hotel[1],20to35,25
-Hotel[1],35to55,48
-Hotel[1],m55,25
-Hotel[2],u20,2
-Hotel[2],20to35,27
-Hotel[2],35to55,49
-Hotel[2],m55,22
-Hotel[3],u20,4
-Hotel[3],20to35,37
-Hotel[3],35to55,42
-Hotel[3],m55,17
-Hotel[4],u20,2
-Hotel[4],20to35,35
-Hotel[4],35to55,48
-Hotel[4],m55,15
-Hotel[5],u20,2
-Hotel[5],20to35,25
-Hotel[5],35to55,54
-Hotel[5],m55,19
-Hotel[6],u20,1
-Hotel[6],20to35,25
-Hotel[6],35to55,55
-Hotel[6],m55,19
-Hotel[7],u20,1
-Hotel[7],20to35,27
-Hotel[7],35to55,53
-Hotel[7],m55,19
-Hotel[8],u20,2
-Hotel[8],20to35,28
-Hotel[8],35to55,51
-Hotel[8],m55,19
-Hotel[9],u20,2
-Hotel[9],20to35,24
-Hotel[9],35to55,55
-Hotel[9],m55,19
-Hotel[10],u20,2
-Hotel[10],20to35,24
-Hotel[10],35to55,55
-Hotel[10],m55,19
-Hotel[11],u20,2
-Hotel[11],20to35,24
-Hotel[11],35to55,55
-Hotel[11],m55,19
-Hotel[12],u20,5
-Hotel[12],20to35,30
-Hotel[12],35to55,43
-Hotel[12],m55,22
-，，，
+Hotel A,<20,2
+Hotel A,20-35,25
+Hotel A,35-55,48
+Hotel A,>55,25
+Hotel B,<20,2
+Hotel B,20-35,27
+Hotel B,35-55,49
+Hotel B,>55,22
+Hotel C,<20,4
+Hotel C,20-35,37
+Hotel C,35-55,42
+Hotel C,>55,17
+Hotel D,<20,2
+Hotel D,20-35,35
+Hotel D,35-55,48
+Hotel D,>55,15
+Hotel E,<20,2
+Hotel E,20-35,25
+Hotel E,35-55,54
+Hotel E,>55,19
+Hotel F,<20,1
+Hotel F,20-35,25
+Hotel F,35-55,55
+Hotel F,>55,19
+Hotel G,<20,1
+Hotel G,20-35,27
+Hotel G,35-55,53
+Hotel G,>55,19
+Hotel H,<20,2
+Hotel H,20-35,28
+Hotel H,35-55,51
+Hotel H,>55,19
+Hotel I,<20,2
+Hotel I,20-35,24
+Hotel I,35-55,55
+Hotel I,>55,19
+Hotel J,<20,2
+Hotel J,20-35,24
+Hotel J,35-55,55
+Hotel J,>55,19
+Hotel K,<20,2
+Hotel K,20-35,24
+Hotel K,35-55,55
+Hotel K,>55,19
+Hotel L,<20,5
+Hotel L,20-35,30
+Hotel L,35-55,43
+Hotel L,>55,22
 
 
 
